@@ -1,0 +1,8 @@
+#puzzle_canvas { top:100px; width:320px; height:320px; }
+	body { background-color: #999900;
+               color: black;
+               text-align: center;
+  }
+ div{
+   background-color:#D9E5FF;
+ }
