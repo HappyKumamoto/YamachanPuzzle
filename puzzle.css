@@ -3,7 +3,7 @@
                color: #FFFFDD;
                text-align: center;
   }
- div h2{
+ div , h2{
    background-color: orangered;
  }
 
