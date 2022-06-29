@@ -151,7 +151,7 @@
 		tapPanel(no);
 		// 完成か否かを判定して，完成ならメッセージを表示．
 		if (clear(panels)) {
-			document.getElementById("message").innerHTML = "<h1>\\\ BAILA BAILA !! //</h1>";
+			document.getElementById("message").innerHTML = "<h1>\ \\ BAILA BAILA !! //</h1>";
 			context.drawImage(image, 0, 0);
 			document.body.appendChild(el);  //kami.js で紙吹雪を出す
 		}
