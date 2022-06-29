@@ -1,7 +1,7 @@
 #puzzle_canvas { top:100px; width:320px; height:320px; }
 	body { 
 /* 		background-color: white; */
-		background-color: linear-gradient(lightcyan , skyblue) fixed;
+		background : linear-gradient(lightcyan , skyblue) fixed;
                color: #FFFFDD;
                text-align: center;
   }
