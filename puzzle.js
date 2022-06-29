@@ -8,7 +8,7 @@
 
 	// 設定
 	size = 3;
-	main_image = "imgs/yamacyan2019.jpg";
+	main_image = "imgs/bailabaila.jpg";
 	panels = [];
 	cell_w = 320 / size;
 	cell_h = 320 / size;
@@ -151,7 +151,7 @@
 		tapPanel(no);
 		// 完成か否かを判定して，完成ならメッセージを表示．
 		if (clear(panels)) {
-			document.getElementById("message").innerHTML = "<h1>\\\ HAPPY BIRTHDAY 2022 !! //<br>\\\ 山ちゃん !! // </h1>";
+			document.getElementById("message").innerHTML = "<h1>\\\ BAILA BAILA !! //</h1>";
 			context.drawImage(image, 0, 0);
 			document.body.appendChild(el);  //kami.js で紙吹雪を出す
 		}
