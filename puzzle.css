@@ -3,8 +3,9 @@
 /* 		background-color: white; */
 /* 		background : linear-gradient(lightcyan , skyblue) fixed; */
 		background : linear-gradient(azure, skyblue) fixed;
-               color: #FFFFDD;
-               text-align: center;
+                color: #FFFFDD;
+		font-family: Helvetica, Arial, Helvetica, sans-serif;
+                text-align: center;
   }
  div , h2{
    background-color: #FF9933;
