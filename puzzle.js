@@ -8,7 +8,7 @@
 
 	// 設定
 	size = 3;
-	main_image = "imgs/baila29.jpg";
+	main_image = "imgs/baila28.jpg";
 	panels = [];
 	cell_w = 320 / size;
 	cell_h = 320 / size;
